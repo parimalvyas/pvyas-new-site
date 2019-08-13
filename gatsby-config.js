@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Parimal Vyas UX/Produt Designer`,
+    name: `Parimal Vyas`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Hi! I'm Parimal Vyas`,
+      maxWidth: 852,
     },
     social: [
       {
