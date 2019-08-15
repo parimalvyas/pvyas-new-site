@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Hi! I'm Parimal Vyas`,
+      heading: `Hi! I'm Parimal Vyass`,
       maxWidth: 852,
     },
     social: [
